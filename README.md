@@ -4,7 +4,7 @@ Hi 👋 My name is Mohd Sultan Khan
 Computational Biologist
 -----------------------
 
-I am a computational biologist with doctoral-level training in bioinformatics, immunoinformatics, and genomic data analysis. My research focuses on developing reproducible in-silico pipelines to identify immunodominant T-cell and B-cell epitopes for rational vaccine design and immunotherapy research.
+I am an early researcher in computational biologist with doctoral-level training in bioinformatics, immunoinformatics, and genomic data analysis. My research focuses on developing reproducible in-silico pipelines to identify immunodominant T-cell and B-cell epitopes for rational vaccine design and immunotherapy research.
 
 * 🌍  I'm based in Bhopal, Madhya Pradesh, India
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/mohd-sultan-khan-823a036a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbeFNsc7cRzSYHf%2BZWHNleA%3D%3D)
