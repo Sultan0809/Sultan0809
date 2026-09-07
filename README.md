@@ -2,7 +2,7 @@
 <h1 align="left"> Hi👋, I'm Mohd Sultan Khan</h1>
 <p align="left"><b>Computational Biologist — Biological Data Analytics, Immunoinformatics, and Computational Vaccine Design</b></p>
 
----
+
 
 ### Research
 
