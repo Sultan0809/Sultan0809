@@ -1,33 +1,27 @@
-Hi 👋 My name is Mohd Sultan Khan
-=================================
 
-Computational Biologist
------------------------
+<h1 align="left"> Hi👋, I'm Mohd Sultan Khan</h1>
+<p align="left"><b>Computational Biologist — Biological Data Analytics, Immunoinformatics, and Computational Vaccine Design</b></p>
 
-I am an early researcher in computational biologist with doctoral-level training in bioinformatics, immunoinformatics, and genomic data analysis. My research focuses on developing reproducible in-silico pipelines to identify immunodominant T-cell and B-cell epitopes for rational vaccine design and immunotherapy research.
+---
 
-* 🌍  I'm based in Bhopal, Madhya Pradesh, India
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/mohd-sultan-khan-823a036a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbeFNsc7cRzSYHf%2BZWHNleA%3D%3D)
-* ✉️  You can contact me at [sultankhan8sep@gmail.com](mailto:sultankhan8sep@gmail.com)
-* 🧠  I'm currently learning Spatial Transcriptomics
-* 👥  I'm looking to collaborate on Single Cell Transcriptomics and Spatial transcriptomics data analysis projects
+### Research
+
+I work at the intersection of immunology and computation, designing reproducible pipelines that mine viral proteomes for immunodominant T-cell and B-cell epitopes and turn them into rational, multi-epitope vaccine constructs. This approach has guided my work on the SARS-CoV-2 spike protein by tracking conserved, surface-exposed regions across emerging variants and has been further extended to HSV-2 glycoprotein D.
+
+I'm now extending this epitope-centric lens to single-cell and spatial transcriptomics, aiming to connect antigen-level immunogenicity with the tissue-level immune response it provokes.
 
 ### Skills
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-</p>
 
-### Socials
+- **Languages & Tools:** Python, R, Bash, Git, Linux/HPC
+- **Genomics & NGS:** Variant calling, scRNA-seq, ATAC-seq, spatial transcriptomics (FastQC, Trimmomatic, Bowtie, GATK, Seurat, Scanpy)
+- **Immunoinformatics:** IEDB-based T-cell/B-cell epitope prediction, immunogenicity & antigenicity assessment
+- **Structural Biology:** Molecular docking & MD simulations (PyMOL, VMD, GROMACS, NAMD)
+- **ML & Data Analysis:** NumPy, Pandas, Scikit-learn, TensorFlow
 
-<p align="left"> <a href="https://www.github.com/Sultan0809" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Mohd Sultan Khan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Sultan0809" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sultan0809?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Reach me
 
+✉️ [sultankhan8sep50@yahoo.com](mailto:sultankhan8sep50@yahoo.com) | [sultankhan8sep@gmail.com](mailto:sultankhan8sep@gmail.com)
 
-### Badges
+### Profiles
 
-<a href="https://github.com/Sultan0809" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan0809&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+[GitHub](https://www.github.com/Sultan0809) · [LinkedIn](http://www.linkedin.com/in/mohd-sultan-khan-823a036a) · [Google Scholar](https://scholar.google.com/citations?user=0SlXK0YAAAAJ&hl=en) · [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-8998-7416) · [ResearchGate](https://www.researchgate.net/profile/Mohd-Khan-257?ev=hdr_xprf)
